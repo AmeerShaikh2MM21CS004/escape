@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const games = [
         { title: 'Flappy Bird', imageUrl: 'flappy.png', link: 'flappy_bird.html' },
         { title: 'Wordle', imageUrl: 'worlde.jpg', link: 'word.html' },
-        { title: 'Card Match', imageUrl: 'card.jpg', link: 'card.html' },
+        { title: 'Card Match', imageUrl: 'card.JPG', link: 'card.html' },
         { title: 'MAZE', imageUrl: 'maze.jpg', link: 'maze.html' },
         { title: 'Sliding Numbers', imageUrl: 'slid.jpg', link: 'slide.html' },
         { title: 'GuessTthe Word', imageUrl: 'guess.jpg', link: 'guess.html' },
