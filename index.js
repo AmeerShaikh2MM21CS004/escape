@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function () {
     // Sample game data (replace this with your actual game data)
     const games = [
         { title: 'Flappy Bird', imageUrl: 'flappy.png', link: 'flappy_bird.html' },
-        { title: 'Wordle', imageUrl: 'worlde.jpg', link: 'word.html' },
+        { title: 'Wordle', imageUrl: 'worlde.JPG', link: 'word.html' },
         { title: 'Card Match', imageUrl: 'card.JPG', link: 'card.html' },
-        { title: 'MAZE', imageUrl: 'maze.jpg', link: 'maze.html' },
-        { title: 'Sliding Numbers', imageUrl: 'slid.jpg', link: 'slide.html' },
-        { title: 'GuessTthe Word', imageUrl: 'guess.jpg', link: 'guess.html' },
+        { title: 'MAZE', imageUrl: 'maze.JPG', link: 'maze.html' },
+        { title: 'Sliding Numbers', imageUrl: 'slid.JPG', link: 'slide.html' },
+        { title: 'GuessTthe Word', imageUrl: 'guess.JPG', link: 'guess.html' },
         // Add more game data as needed
     ];
 
